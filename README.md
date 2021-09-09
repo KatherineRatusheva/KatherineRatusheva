@@ -2,7 +2,7 @@
 
 💻 I’m Junior Frontend developer
 
-# 📭 Contacts
+## 📭 Contacts
 Gmail: k.ratusheva@gmail.com
 
 <!--
