@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kate
 
-###💻 I’m Junior Frontend developer
+### 💻 I’m Junior Frontend developer
 
 ### 📭 Contacts
 Gmail: k.ratusheva@gmail.com
