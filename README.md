@@ -2,7 +2,8 @@
 
 💻 I’m Junior Frontend developer
 
-📭 Contacts Gmail: k.ratusheva@gmail.com
+# 📭 Contacts
+Gmail: k.ratusheva@gmail.com
 
 <!--
 **KatherineRatusheva/KatherineRatusheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
